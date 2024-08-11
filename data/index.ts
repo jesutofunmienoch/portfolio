@@ -94,7 +94,7 @@ export const navItems = [
       title: "Collaborative Livedocs",
       des: "A sleek calculator built with HTML, CSS, and JavaScript for quick, accurate calculations and a user-friendly interface.",
       img: "/ealivedocs.png",
-      iconLists: [""],
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
       link: "https://my-newdocs-live-app.vercel.app/",
       url: "https://my-newdocs-live-app.vercel.app/" // Add the URL for project 4 here
     },
