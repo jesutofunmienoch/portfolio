@@ -76,7 +76,7 @@ export const navItems = [
       des: "Transform your photos and unleash creativity with IMGRA. Powered by Next.js, our AI-driven platform offers intuitive editing tools and dynamic image generation for stunning results with ease.",
       img: "/easaas.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "IMGRA",
+      link: "https://imgra.vercel.app/",
       url: "https://imgra.vercel.app/" // Add the URL for project 1 here
     },
 
@@ -86,7 +86,7 @@ export const navItems = [
       des: "LiveDocs lets you effortlessly invite users to view or edit documents in real-time. With seamless collaboration and intuitive access controls, manage your documents efficiently and securely, whether you're working solo or with a team.",
       img: "/calculator.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "CALCULATOR",
+      link: "https://enochagramclaculator.vercel.app/",
       url: "https://enochagramclaculator.vercel.app/" // Add the URL for project 4 here
     },
     {
@@ -95,7 +95,7 @@ export const navItems = [
       des: "A sleek calculator built with HTML, CSS, and JavaScript for quick, accurate calculations and a user-friendly interface.",
       img: "/ealivedocs.png",
       iconLists: [""],
-      link: "LIVEDOCS",
+      link: "https://my-newdocs-live-app.vercel.app/",
       url: "https://my-newdocs-live-app.vercel.app/" // Add the URL for project 4 here
     },
   ];
