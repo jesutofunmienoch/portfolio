@@ -92,9 +92,9 @@ export const navItems = [
     {
       id: 4,
       title: "Collaborative Livedocs",
-      des: "LiveDocs lets you effortlessly invite users to view or edit documents in real-time. With seamless collaboration and intuitive access controls, manage your documents efficiently and securely, whether you're working solo or with a team.",
+      des: "A sleek calculator built with HTML, CSS, and JavaScript for quick, accurate calculations and a user-friendly interface.",
       img: "/ealivedocs.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      iconLists: [""],
       link: "LIVEDOCS",
       url: "https://my-newdocs-live-app.vercel.app/" // Add the URL for project 4 here
     },
