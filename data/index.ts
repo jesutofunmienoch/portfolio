@@ -74,19 +74,28 @@ export const navItems = [
       id: 1,
       title: "AI Saas Website Using Next.JS",
       des: "Transform your photos and unleash creativity with IMGRA. Powered by Next.js, our AI-driven platform offers intuitive editing tools and dynamic image generation for stunning results with ease.",
-      img: "/ealivedocs.png",
+      img: "/easaas.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://imgra.vercel.app/",
+      link: "IMGRA",
       url: "https://imgra.vercel.app/" // Add the URL for project 1 here
     },
-    
+
+    {
+      id: 4,
+      title: "Calculator",
+      des: "LiveDocs lets you effortlessly invite users to view or edit documents in real-time. With seamless collaboration and intuitive access controls, manage your documents efficiently and securely, whether you're working solo or with a team.",
+      img: "/calculator.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      link: "CALCULATOR",
+      url: "https://enochagramclaculator.vercel.app/" // Add the URL for project 4 here
+    },
     {
       id: 4,
       title: "Collaborative Livedocs",
       des: "LiveDocs lets you effortlessly invite users to view or edit documents in real-time. With seamless collaboration and intuitive access controls, manage your documents efficiently and securely, whether you're working solo or with a team.",
-      img: "/easaas.png",
+      img: "/ealivedocs.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://my-newdocs-live-app.vercel.app/",
+      link: "LIVEDOCS",
       url: "https://my-newdocs-live-app.vercel.app/" // Add the URL for project 4 here
     },
   ];
